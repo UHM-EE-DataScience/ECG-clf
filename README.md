@@ -8,7 +8,7 @@ Here are thee dataset: **normal_male**,**normal_female**,and **normal_AllGender*
 The three datasets are extracted from our cleaned normal dataset. Here is the dataset link. https://drive.google.com/file/d/1zHCfricVejRTScSO69uQvxpLb7yKE2Dh/view?usp=share_link\
 The detail of build the three dataset can be find in **build_data.ipynb**
 ## Classfier
-**build_data.ipynb** is the demo to run the above data use different classifer. We have the following benchmarks for the **normal_male**
+**demo_svm_clf.ipynb** is the demo to run the above data use different classifer. We have the following benchmarks for the **normal_male**
 
 | Method | Train F1 | Test F1 |
 | --- | --- | --- |
